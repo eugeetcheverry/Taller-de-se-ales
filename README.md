@@ -1,2 +1,2 @@
-# Taller-de-se-ales
+# Taller-de-señales
 TPs y ejercicios
